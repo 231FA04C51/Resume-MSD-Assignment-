@@ -20,7 +20,7 @@ A responsive personal resume website built using **HTML** and **CSS**. Showcases
 
 ## 📷 Preview
 
-![Resume Preview](<img width="1900" height="971" alt="image" src="https://github.com/user-attachments/assets/1446ac17-5d6e-4345-9bc8-66156a2e6411" />)  
+<img width="1900" height="971" alt="image" src="https://github.com/user-attachments/assets/1446ac17-5d6e-4345-9bc8-66156a2e6411" /> 
 
 
 ---
