@@ -3,7 +3,7 @@
 A responsive personal resume website built using **HTML** and **CSS**. Showcases key details such as summary, skills, education, and contact form, along with social media links. Perfect for building a professional online presence.
 
 ## 🔗 Live Demo
-[View Website](https://yourusername.github.io/your-repo-name/)  
+[View Website](https://shiny-boba-fbf3f0.netlify.app/)  
 *(Replace with your GitHub Pages link)*
 
 ---
