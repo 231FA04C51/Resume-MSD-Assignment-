@@ -4,7 +4,7 @@ A responsive personal resume website built using **HTML** and **CSS**. Showcases
 
 ## 🔗 Live Demo
 [View Website](https://shiny-boba-fbf3f0.netlify.app/)  
-*(Replace with your GitHub Pages link)*
+
 
 ---
 
